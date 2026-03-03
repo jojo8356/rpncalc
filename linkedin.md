@@ -15,7 +15,7 @@ The idea: one tool that parses infix with a **Shunting-Yard algorithm** and eval
 
 **Built with:** Rust, clap, rustyline
 
-Source: [lien GitHub]
+Source: https://github.com/jojo8356/rpncalc
 
 Feedback welcome — do you use RPN in your daily workflow, or is infix the only way?
 
